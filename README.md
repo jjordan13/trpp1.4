@@ -313,3 +313,4 @@ Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
 "1.2 change" 
 "1.1 change" 
+"1.3 change" 
